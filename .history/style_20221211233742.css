@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+ul {
+  list-style: none;
+}
+body {
+  height: 100%;
+  overflow: hidden;
+}
+.score {
+  text-align: center;
+  font-size: 36px;
+}
